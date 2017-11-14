@@ -10,7 +10,7 @@ Here a visual and intuitive explanation:
 
 #### How to use:
 - download it
-- add it yo your code
+- include it in your code
 - reference it through the `Math` object
 ```javascript
 //Blueprint
