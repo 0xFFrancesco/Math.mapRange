@@ -7,14 +7,15 @@ A JavaScript utility to map a numeric range to a new one preserving value relati
 
 Here a visual and intuitive explanation:
 
+![the visual self-explanatory image](https://raw.githubusercontent.com/Francesco-Rizzi/Math.mapRange/master/assets/image.jpg)
 
 #### How to use:
 - download it
-- include it in your code
+- include it (once) in your code
 - reference it through the `Math` object
 ```javascript
-//Blueprint
-//Math.mapRange(oldRangeMin, oldRangeMax, oldRangeValue, newRangeMin, newRangeMax) : returns newRangeValue
+//Function blueprint
+//Math.mapRange(oldRangeMin, oldRangeMax, oldRangeValue, newRangeMin, newRangeMax) => newRangeValue
 
 Math.mapRange(0,100,50,0,1);        //0,5
 Math.mapRange(0,100,50,0,6);        //3
