@@ -1,9 +1,9 @@
 # Math.mapRange
 
-### A JavaScript enhancer for the Math object for mapping different numeric ranges while preserving value relations.
+### A JavaScript enhancer for the Math object for mapping different numeric ranges while preserving values relations.
 
 #### Description:
-Here a visual and intuitive explanation (it maps a numeric range to a new one keeping the value relations):
+Here a visual and intuitive explanation (it maps a numeric range to a new one keeping the values relations):
 
 ![the visual self-explanatory image](https://raw.githubusercontent.com/Francesco-Rizzi/Math.mapRange/master/assets/image.jpg)
 
